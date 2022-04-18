@@ -17,13 +17,23 @@
 
 ## What is Java?
 
-###
-
+* a computing platform that was first released by SUn Microsystems in 1995
+* runs on all platforms, free to access
+* an independent programming language - logic: "write once, run anywhere" so you can run the compiled code on all java suported systems
+* Class-based and OOP language 
+* Concurrent meaning you can execute many statements rather than sequential execution.
 
 
 ## Components in Java
 
-###
+### JVM (Java virtual machine)
+An abstract machine: a specification providing run-time environment where bytecode is executed. Assembly language.
+
+### JRE (Java runtime environment)
+JRE refers to a runtime environment where bytecode is executed.
+
+### JDK (Java development kit)
+JDK inculdes JRE which included tools for java programers.
 
 ## First Java Program
 
