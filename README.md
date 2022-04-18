@@ -1,4 +1,4 @@
-# JavaBasicsUdemy
+# Java Basics Udemy Course
   Learn Java Basics in one hour with coding exercises by Sakshi Kohli
 
 [Course Link](https://www.udemy.com/course/learn-java-basics/)
