@@ -35,9 +35,8 @@ JRE refers to a runtime environment where bytecode is executed.
 ### JDK (Java development kit)
 JDK inculdes JRE which included tools for java programers.
 
-## First Java Program
-
 ## Data Types and variables
+
 
 ## Conditions - If else and Switch
 
