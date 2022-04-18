@@ -5,9 +5,15 @@
 
 ## History of programming languages 
 
-### 
+### Types of programming languages
+- Low level languages 
+  - Machine Learning
+  - Assembly Language 
 
-###
+- High level languages 
+  - C 
+  - C++
+  - Java   
 
 ## What is Java?
 
