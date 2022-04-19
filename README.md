@@ -56,13 +56,16 @@ Variables:
 
 ## Loops
 
-- For, While, Do while
+For, While, Do while
 
 - Initialization: From where the loop starts
 - Condition: Till when it will run
 - Increment: How does it get the next number?
 
 ## Classes and Objects
+
+> A class is a collection of characteristics and functions. EG: Car, Employee, Student, Animal...
+> An object is an instance of a class
 
 ## Array
 
