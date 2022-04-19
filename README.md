@@ -37,6 +37,24 @@ JDK inculdes JRE which included tools for java programers.
 
 ## Data Types and variables
 
+* NUMBER: byte, short, int, long
+* DECIMAL: float, double
+* TRUE/FALSE: boolean
+* CHARACTERS: Char
+
+Storing a group of characters is done in a STRING `""`
+
+Variables: 
+- A temporay way to store data types 
+- How to declare a variable: 
+  - `<Data_Type> Variable_name;`
+  - Data_Type may be a byte, short, int, long, float, etc. 
+  - Variables_name is an identifier which you specify with these conditions:
+    - May contain letters
+    - case sensitive
+    - avoid using reserved keywords like public, static, void, etc. 
+
+
 
 ## Conditions - If else and Switch
 
