@@ -6,9 +6,11 @@ public class Array  {
 
     static char arrayChar[] = {'h', 'e', 'l', 'l', 'o'};
 
-    static void reverse(Integer myArray[])
-    Collections.reverse(Arrays.asList(myArray));
-    System.out.println("Reverse of String is: " + Arrays.asList(myArray);
+    static void reverse(Integer array[]){
+        Collections.reverse(Arrays.asList(array));
+        System.out.println("Reverse of String is: " + Arrays.asList(array);
+    }
+
 
     public static void main(String[] args) {
 
@@ -26,7 +28,8 @@ public class Array  {
         System.out.println("Length of String is: " + StringHello.length());
 
 
-
+        Integer [] array = {};
+        System.out.println("Original Array:" + Arrays.asList(array));
         reverse(array);
     }
 
