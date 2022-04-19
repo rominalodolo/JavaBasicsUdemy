@@ -56,7 +56,7 @@ Variables:
 
 ## Loops
 
-- For, WHile, Do while
+- For, While, Do while
 
 - Initialization: From where the loop starts
 - Condition: Till when it will run
