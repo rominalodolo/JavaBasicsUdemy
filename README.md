@@ -56,6 +56,12 @@ Variables:
 
 ## Loops
 
+- For, WHile, Do while
+
+- Initialization: From where the loop starts
+- Condition: Till when it will run
+- Increment: How does it get the next number?
+
 ## Classes and Objects
 
 ## Array
