@@ -7,6 +7,8 @@ public class Sum {
         sum = num1 + num2;
 
         System.out.println("The sum of the two numbers is " + sum);
+        System.out.println();
+        System.out.println("The sum of our first number, " + num1 + " is " + sum);
 
 
     }
