@@ -54,10 +54,6 @@ Variables:
     - case sensitive
     - avoid using reserved keywords like public, static, void, etc. 
 
-
-
-## Conditions - If else and Switch
-
 ## Loops
 
 ## Classes and Objects
