@@ -8,7 +8,7 @@ public class Array  {
 
     static void reverse(Integer array[]){
         Collections.reverse(Arrays.asList(array));
-        System.out.println("Reverse of String is: " + Arrays.asList(array);
+        System.out.println("Reverse of String is: " + Arrays.asList(array));
     }
 
 
@@ -31,6 +31,10 @@ public class Array  {
         Integer [] array = {};
         System.out.println("Original Array:" + Arrays.asList(array));
         reverse(array);
+
+        System.out.println("Check if e is present: " + StringHello.indexOf('e'));
+        System.out.println("Concatenate " + StringHello.concat(" - Sakshi !"));
+
     }
 
 }
