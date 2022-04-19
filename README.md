@@ -67,5 +67,4 @@ For, While, Do while
 > A class is a collection of characteristics and functions. EG: Car, Employee, Student, Animal...
 > An object is an instance of a class
 
-## Array
-
+## Quiz
